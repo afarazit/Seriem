@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/ki2nrm0nQ84LXC752t/giphy.gif" height="128" width="128" alt="Logo" />
+  <img src="https://media.giphy.com/media/ki2nrm0nQ84LXC752t/giphy.gif" height="1280" width="720" alt="Logo" />
   <br />
   Seriem
 </h1>
