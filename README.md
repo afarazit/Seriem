@@ -1,12 +1,4 @@
-<h1 align="center">
 
-<img src="https://media.giphy.com/media/ki2nrm0nQ84LXC752t/giphy.gif" height="257" width="480" alt="Logo" />
-  
-  <br />
-  Seriem
-</h1>
-
-<h3 align="center">Watch Series with torrent-streaming</h3>
 
 
   
