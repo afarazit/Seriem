@@ -10,7 +10,7 @@ Seriem is a simple application which lets you watch TV shows instantly.
 I haven't uploaded all series yet. You can join the Seriem's discord from the help button in the Seriem to see the installed series.
 # How Does It Work ?
 It uses [Peerflix](https://github.com/mafintosh/peerflix) as a torrent engine.
-For series information thanks for the awesome API wrapper TMDB api: [TMDBLib](https://github.com/LordMike/TMDbLib)
+For series information thanks for the awesome API wrapper for TMDB api: [TMDBLib](https://github.com/LordMike/TMDbLib)
 
 # UPLOADED SERIES SO FAR
 Stranger Things
