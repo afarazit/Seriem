@@ -13,6 +13,7 @@ I haven't uploaded all series yet. You can join the Seriem's discord from the he
 # UPLOADED SERIES SO FAR
 Stranger Things
 <br/>
+Elementary <br/>
 Game of Thrones<br/>
 WestWorld<br/>
 Mr. Robot<br/>
