@@ -12,19 +12,20 @@ I haven't uploaded all series yet. You can join the Seriem's discord from the he
 
 # UPLOADED SERIES SO FAR
 Stranger Things
-Game of Thrones
-WestWorld
-Mr. Robot
-Sherlock
-Attack on Titan
-Peaky Blinders
-La Casa De Papel
-Vikings
-The Handmaid's Tale
-MindHunter
-The Expanse
-Black Mirror
-The Wire
+<br/>
+Game of Thrones<br/>
+WestWorld<br/>
+Mr. Robot<br/>
+Sherlock<br/>
+Attack on Titan<br/>
+Peaky Blinders<br/>
+La Casa De Papel<br/>
+Vikings<br/>
+The Handmaid's Tale<br/>
+MindHunter<br/>
+The Expanse<br/>
+Black Mirror<br/>
+The Wire<br/>
 
 ![alt text](Seriem1.png "")
 
