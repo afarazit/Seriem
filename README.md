@@ -8,6 +8,10 @@
 Seriem is a simple application which lets you watch TV shows instantly.
 
 
+![alt text](http://i.hizliresim.com/r19ORm.png)
+
+
+
 
 
 
