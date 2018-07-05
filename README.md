@@ -42,10 +42,7 @@ The Wire<br/>
 ![alt text](Seriem4.png "")
 
 
-![alt text](Seriem5.png "")
 
-
-![alt text](Seriem6.png "")
 
 
 
