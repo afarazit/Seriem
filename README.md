@@ -9,6 +9,23 @@ Seriem is a simple application which lets you watch TV shows instantly.
 [Install Latest Version](https://github.com/codirx/Seriem/releases/download/1.0.0/Seriem.msi) - 
 I haven't uploaded all series yet. You can join the Seriem's discord from the help button in the Seriem to see the installed series.
 
+
+# UPLOADED SERIES SO FAR
+Stranger Things
+Game of Thrones
+WestWorld
+Mr. Robot
+Sherlock
+Attack on Titan
+Peaky Blinders
+La Casa De Papel
+Vikings
+The Handmaid's Tale
+MindHunter
+The Expanse
+Black Mirror
+The Wire
+
 ![alt text](Seriem1.png "")
 
 
