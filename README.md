@@ -6,6 +6,7 @@
 
 # Seriem
 Seriem is a simple application which lets you watch TV shows instantly.
+[Install Latest Version](https://github.com/codirx/Seriem/releases/download/1.0.0/Seriem.msi) - 
 
 
 ![alt text](Seriem1.png "")
