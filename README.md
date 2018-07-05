@@ -8,7 +8,7 @@
 Seriem is a simple application which lets you watch TV shows instantly.
 
 
-![alt text](seriem1.png "Description goes here")
+![alt text](Seriem1.png "Description goes here")
 
 
 
