@@ -5,7 +5,7 @@
  
 
 # Seriem
-[![Github Releases](https://img.shields.io/github/downloads/Jackett/Jackett/total.svg?maxAge=60&style=flat-square)](https://github.com/codirx/Seriem/releases/latest)
+
 
 
 
